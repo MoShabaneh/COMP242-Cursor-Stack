@@ -1,0 +1,26 @@
+<242>
+	<section>
+		<infix>
+			<equation>5 + 30</equation>
+			<equation>5 + 3 * 4.5</equation>
+			<equation>( 15 + 3 ) * ( 4 ^ 2 )</equation>
+		</infix>
+                <postfix>
+			<equation>2 30 4 * + </equation>
+			<equation>3 4 * 2 5 * + </equation>
+			<equation>12 3 - 4 + 5 6 * - </equation>
+			<equation>2.5 3 - 4 + 5 6 7 * + * </equation>
+                </postfix>
+	</section> 
+
+	<section>
+		<infix>
+			<equation>( 2 - 3 + 4 ) * ( 5 + 6 * 7 )</equation>
+			<equation>2 - 3 + 4 - 5 * 6</equation>
+		</infix>
+                <postfix>
+			<equation> 10 2 8 * + 3 - </equation>
+			<equation> 2 3 1.5 * + 9 - </equation>
+                </postfix>
+	</section> 
+</242>
